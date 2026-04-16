@@ -1,0 +1,76 @@
+name: farmer_advisory
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  animated_text_kit: ^4.3.0
+  confetti: ^0.7.0
+  animations: ^2.0.7
+  shared_preferences: ^2.2.2
+  image_picker: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/drop.png
+    - assets/images/growth.png
+    - assets/images/tractor.png
+    - assets/images/leaf.png
+    - assets/images/rain.png
+    - assets/images/temprature.png
+    - assets/images/wifi.png
+    - assets/images/sun.png
+    - assets/images/x1.png
+    - assets/images/x2.png
+    - assets/images/x3.jpg
+    - assets/images/x4.webp
+    - assets/images/stock-vector-poor-indian-farmer-carrying-hay-732989998-removebg-preview.png
+
+    # ✅ YEH NEW IMAGES ADD KAREIN
+    - assets/images/sky.png
+    - assets/images/animals.png
+    - assets/images/crop.png
+    - assets/images/Machinry info.png
+    - assets/images/Farming tips.png
+    - assets/images/Real time updates.png
+    - assets/images/ChatGPT_Image_Dec_13__2025__09_51_56_PM-removebg-preview.png
+
+    # ✅ NAVIGATION BAR KI NEW IMAGES ADD KAREIN
+    - assets/images/home.png
+    - assets/images/chat.png
+    - assets/images/profile.png
+    - assets/images/
+    - assets/images/COWW.png
+    - assets/images/sheep.png
+    - assets/images/goat.png
+    - assets/images/hen.png
+    - assets/images/horse.png
+    - assets/images/khota.png
+    - assets/images/rice.png
+    - assets/images/kapaas.png
+    - assets/images/gandum.png
+    - assets/images/corn.png
+    - assets/images/dalay.png
+    - assets/images/backgroundimg.png
+    - assets/images/alerts.png
+    - assets/images/bell.png
+    - assets/images/tools bgimg.png
+    - assets/images/crop tools.png
+    - assets/images/hand tools.png
+    - assets/images/mactool.png
+    - assets/images/animals tools.png
+    - assets/images/livestock.png
